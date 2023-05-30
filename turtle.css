@@ -124,35 +124,19 @@ ul li a:hover {
   padding: 2em 2em;
   background-color: #d1e5f4;
 }
-table, th, td{
-  border:  0.01vw solid white;
-  background-color: #d0efff;
-}
-th{
-  color: white;
-  background-color: #64bafc;
-}
-table tr td:hover{
-  background-color: #e5f3fd;
-}
-table tr p{
-  font-size: 1.11vw;
-  padding-left: 5%;
-  padding-right: 5%;
-}
 .rekawa-beach, .kosgoda, .pigeon-island{
   text-align: center;
 }
 iframe{
-  width: 32vw;
-  height: 32vw;
+  width: 22vw;
+  height: 22vw;
 }
 .logo{
   width: 50vw;
   height: 7.3vw;
 }
 p{
-  font-size: 1vw;
+  font-size: 1.2vw;
   padding-left: 7%;
   padding-right: 7%;
 }
