@@ -27,15 +27,15 @@ table{
     padding-bottom: 2%;
 }
 .bg-img {
-    background-image: url("images/TC1.jpg");
-    min-height: 500px;
-    min-height: 610px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    padding-left: 1%;
-    padding-top: 0.5%;
+  background-image: url("images/tc1.jpg");
+  min-width: 500px;
+  min-height:610px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding-left: 1%;
+  padding-top: 0.5%;
 }
   .container {
     position: absolute;
