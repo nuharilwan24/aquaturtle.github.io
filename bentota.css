@@ -104,12 +104,13 @@ ul li a:hover {
   height: 7vw;
 }
 #img2{
-  width: 35vw;
-  height: 25vw;
+  width: 34vw;
+  height: 24vw;
   padding-left: 5%;
 }
 #para1, #para2, #para3{
   text-align: center;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 1%;
+  padding-right: 1%;
+  font-size: 1.11vw;
 }
